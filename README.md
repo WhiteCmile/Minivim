@@ -24,9 +24,9 @@ Minivim supports three mode.
 The first one is `Normal Mode`. In this mode, you can only browse content of the file, while you can't modify any information in it. You can use arrow keys, 'home', 'end' to browse the content in it. We also provide some shortcut keys to help you.
 - `dd`: delete the entire line that the cursor is currently on.
 - `O`: Move the cursor to the beginning of the line.
-- '$': Move the cursor to the end of the line.
-- 'w': Move forward one word (delimited by a white space or a new line).
-- 'b': Move backward one word (delimited by a white space or a new line).
+- `$`: Move the cursor to the end of the line.
+- `w`: Move forward one word (delimited by a white space or a new line).
+- `b`: Move backward one word (delimited by a white space or a new line).
 
 The second one is `Insert Mode`. In this mode, you can edit file by moving cursor. Edit file include append, modify and deletion.
 
